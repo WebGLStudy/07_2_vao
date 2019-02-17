@@ -1,6 +1,8 @@
 # VAO (Vertex Array Object: 頂点配列オブジェクト)
 頂点配列オブジェクトを使って描画します。
 
+https://webglstudy.github.io/07_2_vao/
+
 ![結果画像](result.gif)
 
 # 課題
